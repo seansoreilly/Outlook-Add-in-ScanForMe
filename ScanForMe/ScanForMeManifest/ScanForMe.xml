@@ -13,7 +13,7 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Scan For Me" />
   <Description DefaultValue="A mail add-in for a read scenario that checks whether the user is mentioned on the To line, cc line or body of an email"/>
-  <SupportUrl DefaultValue="https://github.com/OfficeDev/Outlook-Add-in-ScanForMe"/>
+  <SupportUrl DefaultValue="https://github.com/seansoreilly/Outlook-Add-in-ScanForMe"/>
   <Hosts>
     <Host Name="Mailbox" />
   </Hosts>
