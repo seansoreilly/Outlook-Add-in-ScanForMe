@@ -16,6 +16,7 @@
     };
 
     function detectActionsForMe() {
+
         var item = Office.cast.item.toItemRead(Office.context.mailbox.item);
 
         if (item.itemType === Office.MailboxEnums.ItemType.Message) {
